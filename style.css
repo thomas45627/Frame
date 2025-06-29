@@ -1,0 +1,76 @@
+/* Polices et base */
+body {
+   background-color: azure;
+    line-height: 1.6;
+    color: #333;
+    text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+
+hr{
+    color: azure;
+}
+
+}
+
+/* Barre de navigation */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   background-color: azure;
+    flex-wrap: wrap;
+}
+
+nav img {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    width: 120px;
+    height: 110PX;
+    object-fit: cover;
+    border-radius: 5px;
+    color: #3366cc;
+}
+
+/* Centrage du titre */
+nav h1 {
+    margin-bottom: 30px;
+    border-bottom: 2px;
+    flex: 1;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    margin: 0;
+    color: #3366cc;
+   }
+
+/* Liens des images */
+#lien1, #lien2 {
+    display: flex;
+    align-items: center;
+}
+
+#descrip {
+    color: #3366cc;
+    text-decoration: none;
+}
+#mon_nom span {
+    font-weight: bold;
+}
+
+/* Pour les sections */
+section {
+    padding: 20px;
+}
+
+ul, ol{
+    text-align: center;
+    margin: 20px auto;
+}
+div{
+  color: black;
+}
+
+
