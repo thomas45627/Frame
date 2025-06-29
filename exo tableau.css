@@ -1,0 +1,12 @@
+td{
+    text-align: center;
+    border: 1px solid blue black;
+
+    padding: 10px;
+    color: sienna;
+}
+table{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    width: 50%;
+}
